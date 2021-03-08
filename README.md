@@ -15,3 +15,5 @@ Instruction to run the tests
 -Delete all 'deleteMe.html' files that I created in empty folders.
 
 -Some ".signiture" folders from packages could not be uploaded. If you get some errors while building the solution, delete the folders inside 'packages' and install them, following the previous steps. 
+
+-All test scenarios and test cases are explained in technicalChallenge_JoaoCoelho.docx
