@@ -11,3 +11,7 @@ Instruction to run the tests
 - If executing the test directly on Visual Studio, instead of Jenkins, don't click or move the mouse through any element of the tab that the test is being executed.
 
 - All .dll files and drivers are in "..\GithubUI\GithubUI\bin\Debug"
+
+-Delete all 'deletMe.html' files that I created in empty folders.
+
+-Some ".signiture" folders from packages could not be uploaded. If you get some errors while building the solution, delete the folders inside 'packages' and install them, following the previous steps. 
